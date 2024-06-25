@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Daniil Pashov](https://up.htmlacademy.ru/javascript/32/user/2440293).
-* Наставник: `Неизвестно`.
+* Наставник: `Anton Popov`.
 
 ---
 

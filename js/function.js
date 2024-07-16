@@ -1,15 +1,12 @@
-/* eslint-disable no-console */
+
 /**
  * Проверка длины
  * @param {string} string - проверяемая строка
- * @param {int} maxLenght - максимальная длина
+ * @param {int} maxLength - максимальная длина
  * @returns {boolean} - истина, если не больше максимальной длины
  */
-function checkStringLenght(string, maxLenght) {
-  if (maxLenght >= string.length){
-    return true;
-  }
-  return false;
+function checkStringLenght(string, maxLength) {
+  return  (maxLength >= string.length)
 }
 
 // Строка короче 20 символов

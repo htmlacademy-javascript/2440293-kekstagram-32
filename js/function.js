@@ -6,7 +6,7 @@
  * @returns {boolean} - истина, если не больше максимальной длины
  */
 function checkStringLenght(string, maxLength) {
-  return  (maxLength >= string.length)
+  return (maxLength >= string.length);
 }
 
 // Строка короче 20 символов
